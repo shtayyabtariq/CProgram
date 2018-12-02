@@ -1,0 +1,12 @@
+8 records in the file
+Account No.	Amount
+2371	2011.75
+3125	9452.05
+4981	15.65
+7402	6235.75
+2229	42.00
+9036	3655.80
+5410	1745.35
+The highest amount is $9452.05 in the account number 3125
+The lowest amount is $15.65 in the account number 4981
+The average amount is $2924.11
